@@ -38,7 +38,7 @@ to restrict input/output to this format, because it's the default format google 
 - Expand the "SG: Kou assignment" device
 - Click on Manufacturer data
 - Select data format as "Text(UTF-8)" as seen below
-![alt text][./img/scr1.png]
+![alt text](./img/scr1.png =250x250)
 - Observe GPS location data displayed in Decimal Degrees format
 
 
@@ -69,5 +69,6 @@ Up to 40 characters of input data are processed at a time.
 
 Output data is sent as a string within the Manufacturer Specific Data section of the Bluetooth advertising packet.
 
-Output data is printed with 5 decimal points, because 
-![alt text][./img/coordinate_precision.png]
+Output data is printed with 5 decimal points, because
+
+![alt text](./img/coordinate_precision.png)
