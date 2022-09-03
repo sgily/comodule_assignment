@@ -38,7 +38,7 @@ to restrict input/output to this format, because it's the default format google 
 - Expand the "SG: Kou assignment" device
 - Click on Manufacturer data
 - Select data format as "Text(UTF-8)" as seen below
-![alt text](./img/scr1.png)
+<img src="https://github.com/sgily/comodule_assignment/blob/main/img/scr1.png" width="250" height="250">
 - Observe GPS location data displayed in Decimal Degrees format
 
 
