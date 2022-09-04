@@ -8,7 +8,9 @@ bluetooth advertising data to display those coordinates.
 
 The tool expects GPS data in the *Decimal Degrees* format as follows:
 > 12.3456789 123.456789
+
 > 12.3456789, 123.456789
+
 > 12.3456789:123.456789
 
 (after a lot of deliberation on the vague requirements that were provided I decided
