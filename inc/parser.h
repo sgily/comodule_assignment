@@ -3,10 +3,6 @@
 
 #include <stddef.h>
 
-#define DD_DELIM '.'
-#define DDM_DELIM ' '
-#define DMS_DELIM 'd'
-
 #define LATITUDE_MAX 90.0f
 #define LATITUDE_MIN -90.0f
 #define LONGITUDE_MAX 180.0f
