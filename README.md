@@ -65,11 +65,11 @@ H -- Yes --> I(Update Bluetooth advertising data)
 H -- No, print error --> D
 I -- If update failed, print error --> D
 ```
-Data is parsing is handled in parser.h/parser.c
+Data is parsing is handled in parser.h/parser.c and all the Bluetooth related code is in bt.h/bt.c.
+
+The output data is sent as a string within the Manufacturer Specific Data section of the Bluetooth advertising packet.
 
 Up to 40 characters of input data are processed at a time.
-
-Output data is sent as a string within the Manufacturer Specific Data section of the Bluetooth advertising packet.
 
 Output data is printed with 5 decimal points, because
 
